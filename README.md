@@ -31,6 +31,8 @@ Technology enthusiast, looking for new knowledge for the last 10 years. Focus on
   <a href = "mailto:christianhess94@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
+  
  
   ![Snake animation](https://github.com/christian-hess-94/christian-hess-94/blob/output/github-contribution-grid-snake.svg)
  
